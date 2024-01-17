@@ -1,2 +1,5 @@
-# almostlazy_renamer
-A lazier way to rename things
+The only purpose of this file is to make myself lazier in renaming videos I downloaded online.
+This has no ther purpose i guess, unless you find another use for it, I'm happy for you.
+
+Created in vi cause I'm lazy to do anything else. Happy coding I guess?
+-K
